@@ -1,0 +1,7 @@
+E:\Dotnet\SurfaceSolid\SurfaceSolid\bin\Debug\SurfaceSolid.exe.config
+E:\Dotnet\SurfaceSolid\SurfaceSolid\bin\Debug\SurfaceSolid.exe
+E:\Dotnet\SurfaceSolid\SurfaceSolid\bin\Debug\SurfaceSolid.pdb
+E:\Dotnet\SurfaceSolid\SurfaceSolid\obj\Debug\SurfaceSolid.csproj.CoreCompileInputs.cache
+E:\Dotnet\SurfaceSolid\SurfaceSolid\obj\Debug\SurfaceSolid.exe
+E:\Dotnet\SurfaceSolid\SurfaceSolid\obj\Debug\SurfaceSolid.pdb
+E:\Dotnet\SurfaceSolid\SurfaceSolid\obj\Debug\SurfaceSolid.csprojAssemblyReference.cache

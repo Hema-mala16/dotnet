@@ -1,0 +1,7 @@
+E:\Dotnet\GameApp\GameApp\bin\Debug\GameApp.exe.config
+E:\Dotnet\GameApp\GameApp\bin\Debug\GameApp.exe
+E:\Dotnet\GameApp\GameApp\bin\Debug\GameApp.pdb
+E:\Dotnet\GameApp\GameApp\obj\Debug\GameApp.csprojAssemblyReference.cache
+E:\Dotnet\GameApp\GameApp\obj\Debug\GameApp.csproj.CoreCompileInputs.cache
+E:\Dotnet\GameApp\GameApp\obj\Debug\GameApp.exe
+E:\Dotnet\GameApp\GameApp\obj\Debug\GameApp.pdb
