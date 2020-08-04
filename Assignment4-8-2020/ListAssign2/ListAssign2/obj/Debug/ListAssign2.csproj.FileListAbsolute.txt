@@ -1,0 +1,7 @@
+E:\Dotnet\Assignments\Assignment4-8-2020\ListAssign2\ListAssign2\bin\Debug\ListAssign2.exe.config
+E:\Dotnet\Assignments\Assignment4-8-2020\ListAssign2\ListAssign2\bin\Debug\ListAssign2.exe
+E:\Dotnet\Assignments\Assignment4-8-2020\ListAssign2\ListAssign2\bin\Debug\ListAssign2.pdb
+E:\Dotnet\Assignments\Assignment4-8-2020\ListAssign2\ListAssign2\obj\Debug\ListAssign2.csprojAssemblyReference.cache
+E:\Dotnet\Assignments\Assignment4-8-2020\ListAssign2\ListAssign2\obj\Debug\ListAssign2.csproj.CoreCompileInputs.cache
+E:\Dotnet\Assignments\Assignment4-8-2020\ListAssign2\ListAssign2\obj\Debug\ListAssign2.exe
+E:\Dotnet\Assignments\Assignment4-8-2020\ListAssign2\ListAssign2\obj\Debug\ListAssign2.pdb

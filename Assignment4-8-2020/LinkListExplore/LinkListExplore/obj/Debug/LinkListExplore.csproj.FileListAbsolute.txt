@@ -1,0 +1,7 @@
+E:\Dotnet\LinkListExplore\LinkListExplore\bin\Debug\LinkListExplore.exe.config
+E:\Dotnet\LinkListExplore\LinkListExplore\bin\Debug\LinkListExplore.exe
+E:\Dotnet\LinkListExplore\LinkListExplore\bin\Debug\LinkListExplore.pdb
+E:\Dotnet\LinkListExplore\LinkListExplore\obj\Debug\LinkListExplore.csprojAssemblyReference.cache
+E:\Dotnet\LinkListExplore\LinkListExplore\obj\Debug\LinkListExplore.csproj.CoreCompileInputs.cache
+E:\Dotnet\LinkListExplore\LinkListExplore\obj\Debug\LinkListExplore.exe
+E:\Dotnet\LinkListExplore\LinkListExplore\obj\Debug\LinkListExplore.pdb

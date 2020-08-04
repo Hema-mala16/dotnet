@@ -1,0 +1,7 @@
+E:\Dotnet\ListMethods\ListMethods\bin\Debug\ListMethods.exe.config
+E:\Dotnet\ListMethods\ListMethods\bin\Debug\ListMethods.exe
+E:\Dotnet\ListMethods\ListMethods\bin\Debug\ListMethods.pdb
+E:\Dotnet\ListMethods\ListMethods\obj\Debug\ListMethods.csprojAssemblyReference.cache
+E:\Dotnet\ListMethods\ListMethods\obj\Debug\ListMethods.csproj.CoreCompileInputs.cache
+E:\Dotnet\ListMethods\ListMethods\obj\Debug\ListMethods.exe
+E:\Dotnet\ListMethods\ListMethods\obj\Debug\ListMethods.pdb

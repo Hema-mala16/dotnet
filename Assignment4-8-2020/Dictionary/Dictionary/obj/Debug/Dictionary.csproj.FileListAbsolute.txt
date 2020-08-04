@@ -1,0 +1,6 @@
+E:\Dotnet\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+E:\Dotnet\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+E:\Dotnet\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+E:\Dotnet\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+E:\Dotnet\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+E:\Dotnet\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
