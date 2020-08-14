@@ -1,0 +1,10 @@
+E:\Dotnet\CalcSerialisation\bin\Debug\CalcSerialisation.exe.config
+E:\Dotnet\CalcSerialisation\bin\Debug\CalcSerialisation.exe
+E:\Dotnet\CalcSerialisation\bin\Debug\CalcSerialisation.pdb
+E:\Dotnet\CalcSerialisation\bin\Debug\ClassCalcLib.dll
+E:\Dotnet\CalcSerialisation\bin\Debug\ClassCalcLib.pdb
+E:\Dotnet\CalcSerialisation\obj\Debug\CalcSerialisation.csprojAssemblyReference.cache
+E:\Dotnet\CalcSerialisation\obj\Debug\CalcSerialisation.csproj.CoreCompileInputs.cache
+E:\Dotnet\CalcSerialisation\obj\Debug\CalcSerialisation.csproj.CopyComplete
+E:\Dotnet\CalcSerialisation\obj\Debug\CalcSerialisation.exe
+E:\Dotnet\CalcSerialisation\obj\Debug\CalcSerialisation.pdb

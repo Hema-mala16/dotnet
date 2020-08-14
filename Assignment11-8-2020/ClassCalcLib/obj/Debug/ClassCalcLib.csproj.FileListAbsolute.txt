@@ -1,0 +1,6 @@
+E:\Dotnet\ClassCalcLib\bin\Debug\ClassCalcLib.dll
+E:\Dotnet\ClassCalcLib\bin\Debug\ClassCalcLib.pdb
+E:\Dotnet\ClassCalcLib\obj\Debug\ClassCalcLib.csprojAssemblyReference.cache
+E:\Dotnet\ClassCalcLib\obj\Debug\ClassCalcLib.csproj.CoreCompileInputs.cache
+E:\Dotnet\ClassCalcLib\obj\Debug\ClassCalcLib.dll
+E:\Dotnet\ClassCalcLib\obj\Debug\ClassCalcLib.pdb

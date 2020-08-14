@@ -1,0 +1,13 @@
+E:\Dotnet\WinCalculator\bin\Debug\WinCalculator.exe.config
+E:\Dotnet\WinCalculator\bin\Debug\WinCalculator.exe
+E:\Dotnet\WinCalculator\bin\Debug\WinCalculator.pdb
+E:\Dotnet\WinCalculator\bin\Debug\ClassCalcLib.dll
+E:\Dotnet\WinCalculator\bin\Debug\ClassCalcLib.pdb
+E:\Dotnet\WinCalculator\obj\Debug\WinCalculator.csprojAssemblyReference.cache
+E:\Dotnet\WinCalculator\obj\Debug\WinCalculator.Form1.resources
+E:\Dotnet\WinCalculator\obj\Debug\WinCalculator.Properties.Resources.resources
+E:\Dotnet\WinCalculator\obj\Debug\WinCalculator.csproj.GenerateResource.cache
+E:\Dotnet\WinCalculator\obj\Debug\WinCalculator.csproj.CoreCompileInputs.cache
+E:\Dotnet\WinCalculator\obj\Debug\WinCalculator.csproj.CopyComplete
+E:\Dotnet\WinCalculator\obj\Debug\WinCalculator.exe
+E:\Dotnet\WinCalculator\obj\Debug\WinCalculator.pdb
