@@ -31,7 +31,7 @@ namespace ConnectedObjects1
         }
         protected void Page_Load(object sender, EventArgs e)
         {
-            if(!IsPostBack)
+            if (!IsPostBack)
             {
                 ShowGrid();
             }
@@ -49,7 +49,7 @@ namespace ConnectedObjects1
             conn.Close();
             ShowGrid();
 
-            
+
         }
 
         protected void btnName_Click(object sender, EventArgs e)
@@ -68,11 +68,11 @@ namespace ConnectedObjects1
             conn.Open();
             SqlCommand cmd = new SqlCommand("update EmpTb1 set EmpName=@empName, EmpSal=@empsal where EmpId=@empid", conn);
             cmd.Parameters.Add("@empid", SqlDbType.Int).Value = Convert.ToInt32(txtId.Text);
-            cmd.Parameters.Add("@empname", SqlDbType.VarChar, 20).Value =TtxtName.Text;
-            
+            cmd.Parameters.Add("@empname", SqlDbType.VarChar, 20).Value = TtxtName.Text;
+
             cmd.Parameters.Add("@empsal", SqlDbType.Float).Value = Convert.ToSingle(txtSal.Text);
             cmd.ExecuteNonQuery();
-            
+
             conn.Close();
             ShowGrid();
         }
@@ -92,12 +92,12 @@ namespace ConnectedObjects1
 
         protected void btnSpUpdate_Click(object sender, EventArgs e)
         {
-           
+
             conn.Open();
             cmd = new SqlCommand("sp_UpdateEmpl", conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.Add("@EmpId", SqlDbType.Int).Value = Convert.ToInt32(txtId.Text);
-            cmd.Parameters.Add("@EmpName", SqlDbType.VarChar,20).Value = TtxtName.Text;
+            cmd.Parameters.Add("@EmpName", SqlDbType.VarChar, 20).Value = TtxtName.Text;
             cmd.Parameters.Add("@EmpSal", SqlDbType.Int).Value = Convert.ToInt32(txtSal.Text);
 
             cmd.ExecuteNonQuery();
@@ -114,6 +114,11 @@ namespace ConnectedObjects1
             cmd.ExecuteNonQuery();
             conn.Close();
             ShowGrid();
+        }
+
+        protected void BtnSearch_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

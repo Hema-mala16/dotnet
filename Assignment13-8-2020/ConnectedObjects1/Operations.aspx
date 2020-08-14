@@ -32,6 +32,9 @@
             <asp:Button ID="btnSpUpdate" runat="server" OnClick="btnSpUpdate_Click" Text="Sp_Update" />
 &nbsp;
             <asp:Button ID="btnDel" runat="server" OnClick="btnDel_Click" Text="DelWithParameters" />
+&nbsp;
+            <asp:Button ID="BtnSearch" runat="server" OnClick="BtnSearch_Click" Text="Search" />
+            <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
         </div>
     </form>
 </body>
