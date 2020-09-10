@@ -1,0 +1,7 @@
+E:\Dotnet\Assignments\SingleAndSingleOrDefault\bin\Debug\SingleAndSingleOrDefault.exe.config
+E:\Dotnet\Assignments\SingleAndSingleOrDefault\bin\Debug\SingleAndSingleOrDefault.exe
+E:\Dotnet\Assignments\SingleAndSingleOrDefault\bin\Debug\SingleAndSingleOrDefault.pdb
+E:\Dotnet\Assignments\SingleAndSingleOrDefault\obj\Debug\SingleAndSingleOrDefault.csprojAssemblyReference.cache
+E:\Dotnet\Assignments\SingleAndSingleOrDefault\obj\Debug\SingleAndSingleOrDefault.csproj.CoreCompileInputs.cache
+E:\Dotnet\Assignments\SingleAndSingleOrDefault\obj\Debug\SingleAndSingleOrDefault.exe
+E:\Dotnet\Assignments\SingleAndSingleOrDefault\obj\Debug\SingleAndSingleOrDefault.pdb
